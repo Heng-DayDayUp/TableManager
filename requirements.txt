@@ -1,0 +1,12 @@
+# Windows应用窗口管理软件依赖
+# 基础库
+tkinter  # 内置GUI库
+json     # 内置JSON处理
+os       # 内置操作系统接口
+subprocess  # 内置进程管理
+winreg   # 内置Windows注册表访问
+# 第三方库
+ttkbootstrap  # 现代化tkinter主题库
+# 可选库
+psutil   # 进程管理（可选）
+pillow   # 图像处理（可选）
